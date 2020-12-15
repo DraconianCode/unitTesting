@@ -1,6 +1,7 @@
 # bowlingGame
 
 Rules of Play
+
 Each game of bowling consists of ten frames. In each frame, the bowler will have two chances to
 knock down as many pins as possible with their bowling ball. In games with more than one
 bowler, as is common, every bowler will take their frame in a predetermined order before the
@@ -12,6 +13,7 @@ in the tenth frame, the bowler is allowed to throw 3 balls for that frame. This 
 potential of 12 strikes in a single game, and a maximum score of 300 points, a perfect game.
 
 Scoring
+
 In general, one point is scored for each pin that is knocked over. For example, if a player bowls
 over three pins with the first shot, then six with the second, the player would receive a total of
 nine points for that frame. If a player knocks down nine pins with the first shot, but misses with
