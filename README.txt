@@ -1,3 +1,5 @@
+A ten-pin bowling score sheet showing how a strike is scored:
+
 Strike:
 When all ten pins are knocked down with the first ball (called a strike and typically
 rendered as an "X" on a score sheet), a player is awarded ten points, plus a bonus of whatever is
